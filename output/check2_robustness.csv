@@ -1,0 +1,10 @@
+transformation,mean_distance,changed_rate,changed_rate_pct
+JPEG q=90,0.0,0.0,0.0
+Brightness 50%,0.4,0.2,20.0
+JPEG q=70,0.6,0.2,20.0
+JPEG q=50,1.6,0.7,70.0
+JPEG q=30,2.2,0.8,80.0
+Gaussian blur,6.0,1.0,100.0
+Resize 75%,8.6,1.0,100.0
+Resize 50%,10.4,1.0,100.0
+Brightness 150%,19.4,1.0,100.0

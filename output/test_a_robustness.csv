@@ -1,0 +1,11 @@
+transformation,Mean distance,Min,Max
+JPEG q=90,0.2,0,2
+Brightness 50%,0.4,0,2
+JPEG q=70,1.0,0,2
+JPEG q=50,1.4,0,4
+JPEG q=30,1.8,0,4
+Gaussian blur,5.4,4,8
+Resize 150%,5.6,4,8
+Resize 75%,7.6,4,10
+Resize 50%,10.4,8,14
+Brightness 150%,18.2,10,28

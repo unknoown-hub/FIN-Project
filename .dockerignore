@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+notebooks/
+output/
+optimisations/
+tests/
+build_nb04.py
+*.ipynb
+.DS_Store
