@@ -3,9 +3,7 @@ tests/test_api.py
 
 Integration tests for the FINd REST API (/compare endpoint).
 
-Run with:
-    pytest tests/test_api.py -v
-"""
+
 
 import sys
 from pathlib import Path
