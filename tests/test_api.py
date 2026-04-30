@@ -18,7 +18,7 @@ from find_api.app import app
 
 client = TestClient(app)
 
-MEME_DIR = Path("/Users/noha/Desktop/Hilary_term /DS in practice TA/Summative /meme_images")
+MEME_DIR = Path(".../DS in practice TA/Summative /meme_images") # Chang the path upon replication
 IMG_A = MEME_DIR / "0000_12268686.jpg"
 IMG_B = MEME_DIR / "0000_12270286.jpg"
 IMG_C = MEME_DIR / "0001_13187259.jpg"
