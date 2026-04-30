@@ -14,8 +14,7 @@ deployable REST API.
 
 The meme generator dataset from the Library of Congress is used for
 evaluation. It consists of 55,972 JPEG images belonging to 1,035 meme
-families, located in `/data/meme_images`.
-
+families.
 Filenames follow the convention `XXXX_imageid.jpg` where the first four
 digits identify the meme family. Images within the same family produce
 lower Hamming distances than images across families.
