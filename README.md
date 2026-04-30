@@ -138,12 +138,4 @@ docker run -p 8945:8945 find-api
 
 ---
 
-## Known Limitations
 
-- `app.py` uses a `sys.path` injection to import `FINd_optimized` from
-  the project root. If the directory structure changes, replace with a
-  proper package installation.
-- The optimised hasher uses ~2.2× more memory than the original due to
-  the integral image allocated during the box filter optimisation.
-  Converting intermediate arrays from `float64` to `float32` would halve
-  this overhead.
