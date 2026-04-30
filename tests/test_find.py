@@ -26,7 +26,7 @@ from FINd import FINDHasher
 
 
 
-MEME_DIR = Path("/Users/noha/Desktop/Hilary_term /DS in practice TA/Summative /meme_images")
+MEME_DIR = Path("../Hilary_term /DS in practice TA/Summative /meme_images") # Change the path upon replication
 
 # Two images from the same meme family (family 0000)
 SAME_A = MEME_DIR / "0000_12268686.jpg"
