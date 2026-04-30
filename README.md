@@ -20,10 +20,6 @@ Filenames follow the convention `XXXX_imageid.jpg` where the first four
 digits identify the meme family. Images within the same family produce
 lower Hamming distances than images across families.
 
-- [Library of Congress webpage](https://www.loc.gov/item/lcwaN0010226/)
-- [Dataset page](https://labs.loc.gov/experiments/webarchive-datasets/)
-
----
 
 ## Project Structure
 
