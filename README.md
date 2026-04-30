@@ -119,7 +119,7 @@ docker run -p 8945:8945 find-api
 | image1 | file | First image file |
 | image2 | file | Second image file |
 
-**Response (HTTP 200):**
+**Response:**
 
 ```json
 {
@@ -131,7 +131,6 @@ docker run -p 8945:8945 find-api
 
 | Status | Condition                          |
 |--------|------------------------------------|
-| 200    | Success                            |
 | 400    | File is not a valid image          |
 | 422    | Missing image1 or image2 field     |
 
