@@ -25,9 +25,9 @@ lower Hamming distances than images across families.
 
 ```
 FIN project/
-├── FINd.py                     # Original algorithm — DO NOT MODIFY
+├── FINd.py                     # Original algorithm —  NOT MODIFY
 ├── FINd_optimized.py           # Optimised hasher (6 optimisations, 10.49× speedup)
-├── matrix.py                   # Matrix utilities — DO NOT MODIFY
+├── matrix.py                   # Matrix utilities — NOT MODIFY
 │
 ├── optimisations/              # Individual optimisation variants (v1–v6)
 │   ├── v1_luminance.py         # np.asarray luma conversion
