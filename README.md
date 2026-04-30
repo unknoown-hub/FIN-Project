@@ -1,12 +1,12 @@
 # FINd Image Hashing — SDS in Practice 2026
 
-This repository contains the FINd perceptual image hashing algorithm, an
+This repository contains the FINd  image hashing algorithm, an
 optimised implementation, a comparative evaluation against dHash, and a
 deployable REST API.
 
 > This code and data is intended for the OII SDS in Practice course only.
 > The code and data should not be used for any other purposes.
-> **Please note that some images may be offensive.**
+
 
 ---
 
